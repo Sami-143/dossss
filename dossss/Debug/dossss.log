@@ -1,0 +1,14 @@
+﻿  doss.cpp
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(32,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(377,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(384,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(403,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(578,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(586,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(631,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(639,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(697,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(755,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\source\repos\dossss\dossss\doss.cpp(769,24): warning C4018: '<=': signed/unsigned mismatch
+  dossss.vcxproj -> C:\Users\AL-FATAH LAPTOP\source\repos\dossss\Debug\dossss.exe
